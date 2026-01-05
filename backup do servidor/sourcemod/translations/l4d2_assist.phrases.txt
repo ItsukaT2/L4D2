@@ -1,0 +1,27 @@
+"Phrases"
+{
+	"DMG"
+	{
+		"en"		"dmg"
+		"zho"		"傷害"
+		"chi"		"伤害"
+		"ru"		"ед. УРН"
+		"hu"		"sbz"		
+	}
+	"Got_Killed_By"
+	{
+		"en"		"{green}%N{default} got killed by {lightgreen}%N{default} (%d dmg)."
+		"zho"		"{green}%N{default} 主要擊殺者 {lightgreen}%N{default} (%d 傷害)."
+		"chi"		"{green}%N{default} 主要击杀者 {lightgreen}%N{default} (%d 伤害)."
+		"ru"		"{green}%N{default} погибает от: {lightgreen}%N{default} (%d ед. УРН)."
+		"hu"		"{green}%N{default} megölte {lightgreen}%N{default} (%d sbz)."		
+	}
+	"Assist"
+	{
+		"en"		"|| Assist: %s"
+		"zho"		"|| 協助: %s"
+		"chi"		"|| 协助: %s"
+		"ru"		"|| Помощь: %s"
+		"hu"		"|| Asszisztált: %s"		
+	}
+}
